@@ -1,7 +1,7 @@
 ## Hi, I’m Dain Baik 👋
  
  
-![image](https://github.com/dain-baik/dain-baik/assets/132715170/970f8e52-4ba4-481e-96c1-b49891b49642)
+
 
  
 I'm a 🌍 multilingual 💻 Data Scientist.\
